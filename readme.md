@@ -16,7 +16,7 @@
 
 ### 👨‍💻 Hakkımda
 
-🎓 **Boğazkale Çok Programlı Anadolu Lisesi** - 11. Sınıf Öğrencisi
+🎓 **Lise Öğrencisi** | Yazılım Tutkunu
 
 💼 **Full-Stack Developer Adayı** | Frontend & Backend
 
@@ -25,8 +25,6 @@
 🌱 Şu an **React, Next.js, Node.js** ve **Express.js** ile projeler geliştiriyorum
 
 💡 Performans odaklı, modern ve responsive web uygulamaları yapmayı seviyorum
-
-📍 Yozgat / Boğazkale
 
 <br clear="right"/>
 
@@ -116,9 +114,7 @@ const mevlana = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mevlana12mevlana@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905312290350)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kullaniciadin)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kullaniciadin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kullaniciadin)
 
 </div>
 
